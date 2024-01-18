@@ -1,6 +1,6 @@
-# Otilia Stretcu's personal webpage
+# Junhong Huang's personal webpage
 
-This is the personal website of Otilia Stretcu, which can be visualized at [https://otiliastr.github.io/](https://otiliastr.github.io/).
+This is the personal website of Junhong Huang, which can be visualized at [https://jhhuang9527.github.io/](https://jhhuang9527.github.io/).
 
 ## How to use this template for your website
 
